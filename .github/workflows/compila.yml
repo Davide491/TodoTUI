@@ -26,11 +26,11 @@ jobs:
         # pip install requests pandas
 
     - name: Esegui PyInstaller
-      run: pyinstaller --onefile tuo_script.py # Ricordati di cambiare "tuo_script.py"
+      run: pyinstaller --onefile setup.py # Ricordati di cambiare "tuo_script.py"
 
     - name: Carica l'eseguibile (.exe)
       uses: actions/upload-artifact@v4
       with:
-        name: applicazione-windows
+        name: setup
         path: dist/*.exe
 
