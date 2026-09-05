@@ -30,9 +30,9 @@ fi
 
 cd $WORKDIR
 git clone https://github.com/Davide491/TodoTUI.git
-# 4. Copia i file del programma nel sistema
-echo "Installazione dei file dell'applicazione..."
-# Sostituisci 'mio_eseguibile' con il tuo file reale
+# 4. Copy the application files to the destination directory
+cargo build -p todo_tui --release
+echo "Copying application files..."
 cp TodoTUI/target/release/todo_tui $DESTINATION
 chmod +x $DESTINATION
 rm -rf $WORKDIR
