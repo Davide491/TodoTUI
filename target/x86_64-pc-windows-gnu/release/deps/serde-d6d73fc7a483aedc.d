@@ -1,0 +1,14 @@
+/home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/deps/serde-d6d73fc7a483aedc.d: /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/build/serde-7b93fd2db817a19a/out/private.rs
+
+/home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/deps/libserde-d6d73fc7a483aedc.rlib: /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/build/serde-7b93fd2db817a19a/out/private.rs
+
+/home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/deps/libserde-d6d73fc7a483aedc.rmeta: /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/build/serde-7b93fd2db817a19a/out/private.rs
+
+/home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/davide/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/build/serde-7b93fd2db817a19a/out/private.rs:
+
+# env-dep:OUT_DIR=/home/davide/rust/progetto6/target/x86_64-pc-windows-gnu/release/build/serde-7b93fd2db817a19a/out
